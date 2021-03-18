@@ -1,0 +1,20 @@
+
+test case:negatif scenario
+
+
+test steps:
+ click login
+enter invalid user name
+enter valid password
+click on login
+
+expected result:
+
+page profile not displayed
+
+
+precondition:
+
+user is already registred
+web page is opened
+internet connexion
