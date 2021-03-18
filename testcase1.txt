@@ -18,3 +18,9 @@ precondition:
 user is already registred
 web page is opened
 internet connexion
+
+
+
+actual result:
+
+passed
