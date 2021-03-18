@@ -8,3 +8,6 @@ user profile is shown
 preconditions:
 web page is opened
 user is registred 
+
+test case status:
+failed
