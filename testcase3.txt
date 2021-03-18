@@ -1,13 +1,1 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 8EE3-7CB2
-
- R‚pertoire de C:\Users\mahdi_amal\Desktop\marwa88
-
-18/03/2021  10:35 AM    <DIR>          .
-18/03/2021  10:35 AM    <DIR>          ..
-18/03/2021  10:11 AM               200 marwa.txt
-18/03/2021  10:31 AM               281 testcase1.txt
-18/03/2021  10:35 AM               499 testcase2.txt
-18/03/2021  10:35 AM                 0 testcase3.txt
-               4 fichier(s)              980 octets
-               2 R‚p(s)  159ÿ515ÿ250ÿ688 octets libres
+positif scenario
