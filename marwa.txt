@@ -1,13 +1,1 @@
-test steps:
-click the login
-enter user name
-enter password
-click login
-expected result:
-user profile is shown
-preconditions:
-web page is opened
-user is registred 
-
-test case status:
-failed
+je suis malade
